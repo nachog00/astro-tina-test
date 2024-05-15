@@ -1,6 +1,6 @@
 ---
 posted: '2024-05-16T03:00:00.000Z'
-title: El post de los pibes
+title: El post de los pibes 1
 description: Algo que hacemos con los pibes de vez en cuando
 heroImage: /blog-placeholder-2.jpg
 pubDate: 2022-07-08T03:00:00.000Z
